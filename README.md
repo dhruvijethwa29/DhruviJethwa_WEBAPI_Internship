@@ -9,13 +9,15 @@ This repository contains PHP practical assignments completed during Web Developm
 3. XML Import Export
 4. PDF Generation using FPDF
 5. QR Code Integration
+6. google captcha
+7. exel import export
 
 ## Author
 
 - Name: Dhruvi Jethwa
-- Enrollment No: YOUR_ENROLLMENT_NO
-- Semester: YOUR_SEMESTER
-- College: YOUR_COLLEGE_NAME
+- Enrollment No: 246270307036
+- Semester: 5th
+- College: government polytechnic porbandar
 
 ## Technologies Used
 
@@ -28,3 +30,6 @@ PHP, HTML, CSS, JavaScript, AJAX, XML, FPDF
 - XML import/export
 - PDF generation using FPDF
 - QR code integration
+- Google reCAPTCHA integration
+- Excel import/export
+
